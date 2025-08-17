@@ -1,7 +1,7 @@
 # DeliveryApp
 A delivery app to track the live status of the items ordered.
 
-#Setup Instructions 
+# Setup Instructions  :
 
 1. Clone the app and run the command "npm install" to install node modules.
 2. Run "npm run dev" to start the local server "localhost:3000"
